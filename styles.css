@@ -98,9 +98,9 @@ nav .circle{
 }
 
 @media screen and (min-width:300px) and (max-width:500px){
-  .music-player{
-    width: 300px;
-    height: 95vh;
+.music-player{
+    width: 320px;
+    height: 95%;
   }
   .controls div{
     width: 35px;
